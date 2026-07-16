@@ -103,3 +103,58 @@
         </tr>
             
 </table>
+<h2>power consumption</h2> 
+<table width="100%">
+    <thead>
+        <tr>
+            <th align="left">Component</th>
+            <th align="center">Voltage</th>
+            <th align="center">Current (typ)</th>
+            <th align="center">Power</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Raspberry Pi 5 (8GB)</td>
+            <td align="center">5 V</td>
+            <td align="center">~1.0–3.0 A</td>
+            <td align="center">~5–15 W</td>
+        </tr>
+        <tr>
+            <td>Raspberry Pi 5 Active Cooler</td>
+            <td align="center">5 V</td>
+            <td align="center">~0.10 A</td>
+            <td align="center">~0.5 W</td>
+        </tr>
+        <tr>
+            <td>Arduino Uno</td>
+            <td align="center">5 V (7–12 V input)</td>
+            <td align="center">~0.05 A</td>
+            <td align="center">~0.25 W</td>
+        </tr>
+        <tr>
+            <td>GA25-370 DC Motor with Encoder (×2)</td>
+            <td align="center">6–12 V</td>
+            <td align="center">~0.30–0.50 A (each)</td>
+            <td align="center">~1.8–6 W (each)</td>
+        </tr>
+        <tr>
+            <td>US-100 Ultrasonic Sensor</td>
+            <td align="center">5 V</td>
+            <td align="center">~15 mA</td>
+            <td align="center">~0.075 W</td>
+        </tr>
+        <tr>
+            <td>Pixy2 Camera</td>
+            <td align="center">5 V</td>
+            <td align="center">~140 mA</td>
+            <td align="center">~0.7 W</td>
+        </tr>
+        <tr>
+            <td>BNO080 IMU</td>
+            <td align="center">3.3 V</td>
+            <td align="center">~15 mA</td>
+            <td align="center">~0.05 W</td>
+        </tr>
+    </tbody>
+</table>
