@@ -222,6 +222,9 @@ The updated robot chassis integrates custom 3D-printed brackets and enclosures d
             <td align="center"><img src="other/3d/لقطة شاشة 2026-07-18 025622.png" width="180" alt="Pixy2 Camera Case"></td>
             <td>A dedicated mounting case for the Pixy2 smart vision sensor, protecting the camera board while locking its field of view forward for reliable color-signature tracking.</td>
         </tr>
+      <td><b>aktb ant</b></td>
+      <td align="center"><img width="180" src="other\3d\لقطة شاشة 2026-07-18 025850.png"></td>
+      <td>omg bde anam</td>
     </tbody>
 </table>
 
