@@ -53,7 +53,7 @@ Teams are evaluated on:
 
 </div>
 
- </div> <h3>Rayna Rino</h3><img src="other\gif\IMG_6704.gif" width="390" align="right" alt="Rayna Rino"><p><b>Age:</b> 14</p><p><b>Email:</b> rinoorayan14@gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> <hr> <h3>Othman Jaber</h3><img src="other\gif\IMG_6708.gif" width="390" align="right" alt="Othman Jaber"><p><b>Age:</b> 17</p><p><b>Email:</b> othmanjaber78@gmail.com</p><p><b>School:</b> King Talal Secondary School</p><p><b>GitHub:</b> <a href="https://github.com/othmanjaber">othmanjaber</a></p><br clear="right"/> <hr> <h3>Yazan Hindia</h3><img src="other\gif\IMG_6707.gif" width="390" align="right" alt="Yazan Hindiyeh"><p><b>Age:</b> 14</p><p><b>Email:</b> yazanhindia@gmail.com</p><p><b>School:</b> Mahmoud Darwish School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> 
+ </div> <h3>Rayna Rino</h3><img src="other\gif\IMG_6704.gif" width="390" align="right" alt="Rayna Rino"><p><b>Age:</b> 14</p><p><b>Email:</b> rinoorayan14@gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> <hr> <h3>Othman Jaber</h3><img src="other\gif\IMG_6708.gif" width="390" align="right" alt="Othman Jaber"><p><b>Age:</b> 17</p><p><b>Email:</b> othmanjaber78@gmail.com</p><p><b>School:</b> King Talal Secondary School</p><p><b>GitHub:</b> <a href="https://github.com/othmanjaber">othmanjaber</a></p><br clear="right"/> <hr> <h3>Yazan Hindia</h3><img src="other\gif\IMG_6707.gif" width="390" align="right" alt="Yazan Hindiyeh"><p><b>Age:</b> 14</p><p><b>Email:</b> yazanhindia@gmail.com</p><p><b>School:</b> Mahmoud Darwish School</p><p><b>GitHub:</b> <a href="https://github.com/kd2o">kd2o</a></p><br clear="right"/> 
 <hr>
 <a id="bom"></a>
 <div align="center">
@@ -223,7 +223,7 @@ The updated robot chassis integrates custom 3D-printed brackets and enclosures d
             <td>A dedicated mounting case for the Pixy2 smart vision sensor, protecting the camera board while locking its field of view forward for reliable color-signature tracking.</td>
         </tr>
       <td><b>aktb ant</b></td>
-      <td align="center"><img width="180" src="other\3d\لقطة شاشة 2026-07-18 025850.png"></td>
+      <td align="center"><img width="180" src="other\3d\omg.png"></td>
       <td>omg bde anam</td>
     </tbody>
 </table>
